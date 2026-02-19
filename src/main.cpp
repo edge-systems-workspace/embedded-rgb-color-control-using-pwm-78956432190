@@ -5,7 +5,7 @@
  * This program reads analog values from an LDR (Light Dependent Resistor)
  * connected to analog pin A0. The raw analog value (0–1023) is converted
  * into a percentage (0–100%) to represent light intensity.
- * The values are displayed on the Serial Monitor.
+ * The values are displayed on the Serial Monitor. 
  *
  * @author Khushi Singh
  * @date 19 Feb 2026
